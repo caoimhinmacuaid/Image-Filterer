@@ -1,11 +1,3 @@
-Table of Contents
------------------
-
-*Introduction
-*Features
-*Instructions
-*Requirements
-
 Introduction
 ------------
 
